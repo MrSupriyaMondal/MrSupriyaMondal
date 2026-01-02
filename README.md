@@ -41,22 +41,6 @@ I enjoy turning ideas into real products and continuously improving my craft.
 
 ---
 
-## 📌 Featured Projects
-
-### 🔹 **Project Name**
-> Short one-line description of what the project does  
-- 🧩 Tech: React, Node.js, PostgreSQL  
-- ✨ Features: Auth, CRUD, real-time updates  
-- 🔗 Repo: https://github.com/username/project
-
-### 🔹 **Project Name**
-> Short one-line description of what the project does  
-- 🧩 Tech: Next.js, API, Tailwind  
-- ⚡ Focus: Performance & SEO  
-- 🔗 Repo: https://github.com/username/project
-
----
-
 ## 📊 GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
@@ -67,10 +51,8 @@ I enjoy turning ideas into real products and continuously improving my craft.
 ## 🤝 Let’s Connect
 
 - 🌐 Portfolio: https://yourwebsite.com 🔧
-- 💼 LinkedIn: https://linkedin.com/in/yourname 🔧
-- 🐦 Twitter/X: https://twitter.com/yourhandle 🔧
-- 📫 Email: your@email.com 🔧
-
+- 💼 LinkedIn: https://linkedin.com/in/mrsupriyamondal🔧
+- 📫 Email: mr.supriyamondal@proton.me
 ---
 
 ⭐ *If you like my work, consider starring some repositories!*
