@@ -1,4 +1,4 @@
-# 👋 Hi, I'm <Your Name>
+# 👋 Hi, I'm Supriya Mondal
 
 🚀 Full-Stack Web Developer | Problem Solver | Builder of Useful Things  
 
@@ -25,7 +25,7 @@ I enjoy turning ideas into real products and continuously improving my craft.
 - Tailwind CSS / SCSS / Bootstrap
 
 **Backend**
-- Node.js / Express / NestJS 🔧
+- Node.js / NextJS 🔧
 - REST APIs & Authentication
 - WebSockets / Real-time systems
 
