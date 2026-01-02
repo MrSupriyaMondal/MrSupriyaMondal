@@ -1,20 +1,10 @@
 # 👋🤖 Hi, I'm Supriya Mondal
 
-Full-stack developer by profession, gamer by passion, stacking code like bricks to build something lasting.
+Full-stack **developer**🧠 by profession, **gamer**🫀 by passion. Stacking code like bricks to build something lasting.
 
 ---
 
-## 🧠 About Me
-
-- 💻 Full-stack developer with a strong focus on **clean architecture**
-- ⚙️ I enjoy working across the stack — UI, APIs, databases, and deployment
-- 📈 Always learning and experimenting with new technologies
-- 🛠️ I value **performance, accessibility, and maintainability**
-- 🌍 Open to collaboration and open-source contributions
-
----
-
-## 🛠️ Tech Stack
+## 🔎 Tech Stack
 
 **Frontend**
 - HTML, CSS, JavaScript, TypeScript
