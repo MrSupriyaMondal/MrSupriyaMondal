@@ -1,9 +1,6 @@
-# 👋 Hi, I'm Supriya Mondal
+# 👋🤖 Hi, I'm Supriya Mondal
 
-🚀 Full-Stack Web Developer | Problem Solver | Builder of Useful Things  
-
-I design, build, and ship scalable web applications — from pixel-perfect frontends to robust backends.  
-I enjoy turning ideas into real products and continuously improving my craft.
+Full-stack developer by profession, gamer by passion, stacking code like bricks to build something lasting.
 
 ---
 
